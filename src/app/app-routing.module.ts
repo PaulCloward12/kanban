@@ -10,9 +10,9 @@ const routes: Routes = [
     loadChildren: () => import('./user/user.module').then(m => m.UserModule)
   },
   {
-    path: 'kanban',
+    path: 'firestarter',
     loadChildren: () =>
-      import('./kanban/kanban.module').then(m => m.KanbanModule),
+      import('./firestarter/firestarter.module').then(m => m.firestarterModule),
     canActivate: [AuthGuard]
   },
   {

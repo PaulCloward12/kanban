@@ -20,7 +20,7 @@ const ROUTES = [
     '/customers/78asJMXvM8q7f87cpVEF',
     '/customers/Wu2BRnrAxnizSgGaJXhN',
     '/customers/qe7EtWu4UWiWfZgtmP3C',
-    '/kanban',
+    '/firestarter',
     '/login',
 ];
 
