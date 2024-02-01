@@ -44,7 +44,6 @@
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
-              "extractCss": true,
               "namedChunks": false,
               "extractLicenses": true,
               "vendorChunk": false,
@@ -174,5 +173,8 @@
       }
     }
   },
-  "defaultProject": "firestarter"
+  "defaultProject": "firestarter",
+  "cli": {
+    "analytics": "a18ad05d-6fec-42ec-b2ff-20e03d683a3e"
+  }
 }
