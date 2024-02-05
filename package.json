@@ -39,7 +39,6 @@
     "@nestjs/core": "^10.3.1",
     "@nestjs/ng-universal": "^16.2.0",
     "@nestjs/platform-express": "^10.3.1",
-    "@nguniversal/express-engine": "^16.2.0",
     "express": "^4.18.2",
     "firebase": "^10.8.0",
     "reflect-metadata": "^0.1.13",
